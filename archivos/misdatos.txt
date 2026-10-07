@@ -1,8 +1,4 @@
-Nombre: Miguel Angel
-Apellidos: Gonzalez Vegacruz 
-Edad: 19
-Carrera: Economia
-Nombre: Hola Ola
-Apellidos: Adios Mano 
-Edad: 20
-Carrera: Si
+Joshua David Müller Castillo 
+Estudiante de Licenciatura en Ingenieria en Sistemas de la Información en Universidad Americana UAM
+18 años
+Varón

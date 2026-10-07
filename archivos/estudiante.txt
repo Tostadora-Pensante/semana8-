@@ -1,8 +1,8 @@
-Nombre: Miguel Angel
-Apellidos: Gonzalez Vegacruz 
-Edad: 19
-Carrera: Economia
-Nombre: Hola Ola
-Apellidos: Adios Mano 
+Nombre: Joshua David
+Apellidos: Muller Castillo
+Edad: 18
+Carrera: Sistemas
+Nombre: Eren Wagner
+Apellidos: Navarro Trinidad
 Edad: 20
-Carrera: Si
+Carrera: Industrial
