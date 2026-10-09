@@ -28,3 +28,10 @@ for item in nuevalista:
 
 for item in nuevalista:
     print(type(nuevalista))
+
+with open ("texto.txt", "+w", encoding= "utf8") as archivo:
+    for item in nuevalista:
+        archivo.write(str(item) + "\n")
+
+with open ("texto.txt", "+a", encoding= "utf8") as trial:
+   trial.write("Mouth to mouth and eye to eye, sleep where constellations sigh")
