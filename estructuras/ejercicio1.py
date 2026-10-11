@@ -16,6 +16,9 @@ while True:
 while True:
     try: 
         notas = float(input("Ingrese la nota del estudiante: "))
+        if 0 <= notas <= 100:
+            break
+        print("La nota debe estar entre 0 y 100 para ser valida")
     except ValueError:
         print("Error. Porfavor ingrese un numero para que la nota sea valida.")
 
